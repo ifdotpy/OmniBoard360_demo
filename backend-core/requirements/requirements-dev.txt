@@ -1,0 +1,9 @@
+-r base.txt
+
+pre-commit==2.6.0
+flake8==3.8.3
+yapf==0.30.0
+tblib==1.7.0
+whitenoise==5.1.0
+
+# -r scrapy_requirements.txt
